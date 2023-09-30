@@ -7,3 +7,6 @@ Data Preprocessing: The dataset undergoes preprocessing steps, including label e
 Exploratory Data Analysis (EDA): Various EDA techniques are employed, such as correlation analysis, histogram plotting, and pair plots, to gain insights into the data.
 XGBoost Model Training: An XGBoost classifier is trained on the preprocessed data to predict the presence or absence of Parkinson's disease.
 Model Evaluation: The trained model's accuracy, confusion matrix, and classification report are displayed to assess its predictive capabilities.
+
+## Dataset
+The dataset used for this project can be found [here](insert_dataset_link).
